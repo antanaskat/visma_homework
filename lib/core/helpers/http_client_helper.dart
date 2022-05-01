@@ -1,6 +1,4 @@
 import 'dart:io';
-
-import 'package:get/instance_manager.dart';
 import 'package:http/http.dart';
 
 class HttpClientHelper {

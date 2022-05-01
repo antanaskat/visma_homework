@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:http/http.dart';
 import 'package:visma_homework/core/helpers/http_client_helper.dart';
 import 'package:visma_homework/core/helpers/json_to_model.dart';
 import 'package:visma_homework/core/models/forecast_day_model.dart';
